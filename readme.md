@@ -18,39 +18,47 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Schedule
 
-#### [Week 01](content/intro_part01.md)
+### [Week 01](content/week01.md)
+
 + Students intro :wave:
 + Intro: General
 + ML / AI / DL: History & Example
 + Inner working of a Neural Network
 + Intro to tools: Jupyter / Colab
 
-#### Week 02 
+### Week 02 
+
 + HSLU AI Autumn session 01 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
 
-#### Week 03 
+### Week 03 
+
 + HSLU AI Autumn session 02 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
 
-#### Week 04 
+### Week 04 
+
 + HSLU AI Autumn session 03 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
 
-#### Week 05
+### Week 05
+
 + Intro to tools: Pytorch, ml5.js / tf.js
 + First steps with Pytorch
 
-#### Week 05 Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
+### Week 05 Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
+
 + Machine Learning Project Checklist
 + Creating a dataset
 + Machine Learning for computer vision (ConvNets)
 + Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
-#### Week 06 [Content](./content/week06.html) - [Slides](./slides/week06.html)
+### Week 06 [Content](./content/week06.html) - [Slides](./slides/week06.html)
+
 + Projects dicussion
 + ML5js
 + Machine Learning for computer vision (ConvNets)
 + Generative models: LSTM, RNN
 
-#### Week 07 [Content](./content/week07.html) - [Slides](./slides/week07.html)
+### Week 07 [Content](./content/week07.html) - [Slides](./slides/week07.html)
+
 + Datasets
 + Generative models: Deep Dream, Style Transfer, VAE, GAN.
 + Remote GPU
@@ -62,21 +70,25 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Tools
 
-#### System requirement
+### System requirement
+
 Modern machine with decent hardware and sufficient space on the hard drive (20+ Gb)
 
-#### Code editor
+### Code editor
+
 If you don’t have a code editor, please install one. Some suggestions (in no particular order)
 - [Sublime Text](https://www.sublimetext.com)
 - [Visual Studio](https://code.visualstudio.com)
 - [Atom](https://atom.io) 
 
-#### Web server
+### Web server
+
 We will need a simple web server to run the experiments locally. Some suggestions 
 - If you have node.js/npm installed you can use _live-server_: `npm install -g live-server`
 - [Other recommended options](https://github.com/digitalideation/hslu-ml-workshop#web-server)
 
-#### Tensorflow.js
+### Tensorflow.js
+
 A **JavaScript** library with a more advanced set of options, also for the web.
 - [Getting Started](https://js.tensorflow.org/#getting-started)
 - [Tutorials](https://js.tensorflow.org/tutorials/)
@@ -84,18 +96,21 @@ A **JavaScript** library with a more advanced set of options, also for the web.
 - [Examples](https://github.com/tensorflow/tfjs-examples)
 - [Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
 
-#### Keras
+### Keras
+
 Keras is a high-level neural networks API, written in **Python** and capable of running on top of **TensorFlow, CNTK, or Theano**. It was developed with a focus on enabling fast experimentation
 - [Getting Started](https://keras.io/#getting-started-30-seconds-to-keras)
 - [Tutorials](https://blog.keras.io/index.html)
 
-#### ML5.js
+### ML5.js
+
 ML5.js is a simple **JavaScript** ML library for the web based on tensorflow.js. 
 - [Getting started](https://ml5js.org/docs/getting-started)
 - [Experiments](https://ml5js.org/en/experiments)
 - [Git source](https://github.com/ml5js)
 
-#### P5.js
+### P5.js
+
 [__p5.js__ ](https://p5js.org/) is a high level creative programming framework with an [intuitive API](https://p5js.org/reference/). If some of you have used Processing before you should be confortable using p5.js. To get familiar with p5 you can go through this list of tutorials / guides:
 - [P5 Learn](https://p5js.org/learn/)
 - [P5 Wiki](https://github.com/processing/p5.js/wiki/)
@@ -103,18 +118,15 @@ ML5.js is a simple **JavaScript** ML library for the web based on tensorflow.js.
 - [Shiffman's Foundation of programming in js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [P5js reference](https://p5js.org/reference/)
 
-#### Magenta.js
+### Magenta.js
+
 Magenta.js is a collection of **TypeScript** libraries for doing inference with pre-trained Magenta models. All libraries are published as npm packages.
 - [Demos](https://magenta.tensorflow.org/demos)
 - [Blog](https://magenta.tensorflow.org)
 
-#### Conda
+### Conda
+
 [__Conda__](https://conda.io) is an open source package management system and environment management system that runs on Windows, macOS and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer. It was created for Python programs, but it can package and distribute software for any language.
-
-
-## Samples
-
-TBA
 
 
 ## References / Reading list
@@ -138,22 +150,6 @@ TBA
   + [W3School js][ref-w3s-js]: JS simple tutorials
   + [CodeAcademy JS][ref-ca-js]: Code Academy JS class
   + [Eloquent JS][ref-el-js]: Eloquent JS
-
-
-## Repository structure
-
-```
-├── docs
-│   ├── _layouts
-│   ├── assets            (img, etc.. for content)
-│   │   ├── css
-│   │   └── images
-│   └── slides            (slides of the presentations)
-│       ├── demos
-│       └── static        (img, etc.. for slides)
-├── samples               (code samples) 
-└── utilities             (scripts and notes)
-```
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
