@@ -38,26 +38,28 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 + HSLU AI Autumn session 03 :fallen_leaf: with [Derrick Schultz](https://twitter.com/dvsch) _(:warning: [remote session](#) :warning:)_
 
-### Week 05
+### [Week 05](content/week05.md)
 
-+ Intro to tools: Pytorch, ml5.js / tf.js
-+ First steps with Pytorch
+* Looking back at the inner working of a NN
+* Intro to tools: Pytorch, ml5.js / tf.js
+* First steps with Pytorch
+* Building a simple classifier
 
-### Week 05 Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
+### Week 06 Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
 
 + Machine Learning Project Checklist
 + Creating a dataset
 + Machine Learning for computer vision (ConvNets)
 + Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
-### Week 06 [Content](./content/week06.html) - [Slides](./slides/week06.html)
+### Week 07 [Content](./content/week06.html) - [Slides](./slides/week06.html)
 
 + Projects dicussion
 + ML5js
 + Machine Learning for computer vision (ConvNets)
 + Generative models: LSTM, RNN
 
-### Week 07 [Content](./content/week07.html) - [Slides](./slides/week07.html)
+### Week 08 [Content](./content/week07.html) - [Slides](./slides/week07.html)
 
 + Datasets
 + Generative models: Deep Dream, Style Transfer, VAE, GAN.
