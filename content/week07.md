@@ -1,46 +1,82 @@
 ---
 layout: inner
-title: "Week 08" 
+title: "Week 06" 
 ---
 
 
 ## Intro
 
-This week we will continue exploring generative models by discussing techniques used in DeepDream, Style Transfer, VAE and GAN.
+This week we start looking into Convolutional Neural Networks (ConvNets or CNN). We will work with Keras and/or ML5js. Example with ~~Wekinators~~ and tfjs can be provided during next week session. 
 
 
-## Resources
+## Schedule
 
-+ [GAN - Pix2Pix](https://phillipi.github.io/pix2pix/)
-+ [GAN - Style Transfer](https://blog.paperspace.com/art-with-neural-networks/)
-+ [GAN - Face Swap](https://blog.paperspace.com/style-transfer-part-2/)
-+ [Style Transfer - Neural Style](https://github.com/jcjohnson/neural-style)
+|Time         |Desc                                      |
+|---          |---                                       |
+|20 mins      | AI Autumn workshop - feedback / discuss  |
+|20 mins      | Intro to CNN                             |
+|20 mins      | Notebooks                                |
+|10 mins      | Break                                    |
+|40 mins      | Notebooks                                |
 
 
-## Notebooks
+## Content
 
-+ [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://github.com/eladrich/pixel2style2pixel)
-+ [StyleGAN2 notebooks](https://github.com/pbaylies/stylegan2)
+* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2101/slides/week06.html)
+* Complete the notebooks for week 06 in `/samples` folder.
+
+Notebooks are taken from the book _Deep Learning with Python_, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
+
+Convnets are a cornerstone of Deeplearning and you are going to learn a few very useful techniques this week. Namely: _'data augmentation'_ and _'feature extraction'_ for _'transfer learning'_ . 
+
+
+## Preparation work
+
+Read the first 2 articles in [Going Further](#going-further), and complete the notebooks for week 06 in `/samples` folder.
+
+For _developers_ you should use a CNN to build a classifier of your choice (either trained from scratch or using a pre-trained model). You can follow the techniques detailed in the notebooks. You will find some examples of datasets in the section [going further/tools](#tools) on this page. For those of you who worked with the shape classifier with the toy NN it might be interesting to try to use CNN as a comparison (see the Kaggle dataset in [tools](#tools)). 
+
+Both _designers_ and _developers_ should start looking a bit more in details into their personal project (that we will start to work on after week 06) Which means:
+
+1. Make some research (models architecture, datasets, tutorials, blog posts, etc...), please __share__ your finding on Slack if you think they could help some teammates.
+2. For _designers_ you should start sketching some ideas either in the form of prototypes (high or low level), UI sketches, or even code experiment (P5, ML5).
+
+By __next week__ (week 07) you should:
+
+1. Have a __solid understanding__ of  Keras _(developers)_
+2. Be able to __train / retrain__ your own __CNN__ with Keras _(developers)_
 
 
 ## Going further
 
-+ [Metrics - Understanding ML Evaluation Metrics — Precision & Recall](https://medium.com/x8-the-ai-community/understanding-ml-evaluation-metrics-precision-recall-2b3fb915b666)
-+ [Metrics - DL precision and recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
-+ [CNN - Visualisation](https://github.com/tensorflow/lucid)
-+ [CNN - Visualisation](https://distill.pub/2017/feature-visualization/)
-+ [GAN - GAN from scratch in TF and Pytorch](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f)
-+ [GAN - Cool applications of GAN](https://jonathan-hui.medium.com/gan-some-cool-applications-of-gans-4c9ecca35900)
-+ [GAN - DCGAN](https://github.com/carpedm20/DCGAN-tensorflow)
-+ [GAN - Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans)
-+ [GAN - Pix2Pix](https://phillipi.github.io/pix2pix/)
-+ [GAN - Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
-+ [GAN - CycleGAN & Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/)
-+ [GAN - Neural Doodle](https://github.com/alexjc/neural-doodle)
-+ [Datasets - Scraping](https://github.com/montoyamoraga/scrapers)
-+ [Datasets - Scraping Chrome Add On](https://www.webscraper.io)
-+ [Datasets - Scrapping Flickr](https://github.com/antiboredom/flickr-scrape)
-+ [Python - API](https://medium.com/python-pandemonium/build-simple-restful-api-with-python-and-flask-part-1-fae9ff66a706)
-+ [Python - API](https://realpython.com/flask-connexion-rest-api/)
-+ [MISC - Examples](https://research.google.com/seedbank/)
-+ [MISC - Keep Colab alive](https://gist.github.com/gu-ma/4c19e179c27b6d5769e0edb1e2fee846)
+### CNN 
+
++ [CNN - Intro from ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
++ [CNN - An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
++ CNN - DL with Python - Chapter 5 (please refer to the link shared on Slack)
++ [CNN - Visualizing what ConvNets learn](https://cs231n.github.io/understanding-cnn/)
++ [CNN - Understanding convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
++ [CNN - Visualisation](http://scs.ryerson.ca/~aharley/vis/conv/flat.html)
++ [CNN - Visualisation Distill.pub 01](https://distill.pub/2017/feature-visualization/)
++ [CNN - Visualisation Distill.pub 02](https://distill.pub/2018/building-blocks/)
+
+### Other (Datasets / js) 
+
++ [Datasets - Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
++ [Datasets - Misc datasets](https://www.kdnuggets.com/datasets/index.html)
++ [Datasets - Kaggle](https://www.kaggle.com/datasets)
++ [Datasets - Kaggle (shape classification)](https://www.kaggle.com/smeschke/four-shapes/home)
++ [JS ml5js - Classification](https://ml5js.org/docs/image-classification-example)
++ [JS ml5js - YOLO](https://ml5js.org/docs/yolo-webcam)
++ [JS tfjs - Tutorials](https://js.tensorflow.org/tutorials/)
++ [JS tfjs - Examples](https://github.com/tensorflow/tfjs-examples)
++ [JS tfjs - Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
+
+
+## Exit ticket
+
+Use [this link](https://docs.google.com/forms/d/e/1FAIpQLSd5dN93yEYxwUBsafueZ8AY7Ep7yKsQdCZrKBBWnG18Ck7P0g/viewform?usp=sf_link) if the form does not show up below :arrow_down:
+
+{% raw %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5dN93yEYxwUBsafueZ8AY7Ep7yKsQdCZrKBBWnG18Ck7P0g/viewform?embedded=true" width="100%" height="909" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
+{% endraw %}

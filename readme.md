@@ -45,23 +45,21 @@ Once we get a good grasp of the different techniques, we will experiment further
 * First steps with Pytorch
 * Building a simple classifier
 
-### Week 06 Content ([part01](./content/week03.html) / [part02](./content/week04.html)) - Slides ([part01](./slides/week03.html) / [part02](./slides/week04.html))
+### Week 06
 
-+ Machine Learning Project Checklist
-+ Creating a dataset
-+ Machine Learning for computer vision (ConvNets)
-+ Training a NN: Intro to tools (Keras, ML5js, Paperspace)
++ Project discussions 
++ Personal research
 
-### Week 07 [Content](./content/week06.html) - [Slides](./slides/week06.html)
+### [Week 07 ](./content/week07.html)
 
 + Projects dicussion
-+ ML5js
 + Machine Learning for computer vision (ConvNets)
+
+### Week 08 (TBD)
+
++ ML5js
 + Generative models: LSTM, RNN
-
-### Week 08 [Content](./content/week07.html) - [Slides](./slides/week07.html)
-
-+ Datasets
++ Machine Learning Project Checklist
 + Generative models: Deep Dream, Style Transfer, VAE, GAN.
 + Remote GPU
 + Deploying your models
