@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "Week 06" 
+title: "Week 07" 
 ---
 
 
@@ -22,8 +22,8 @@ This week we start looking into Convolutional Neural Networks (ConvNets or CNN).
 
 ## Content
 
-* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2101/slides/week06.html)
-* Complete the notebooks for week 06 in `/samples` folder.
+* [:tv: Intro to CNN](https://digitalideation.github.io/digcre_h2101/slides/week07.html)
+* Complete the notebooks for week 07 in `/samples` folder.
 
 Notebooks are taken from the book _Deep Learning with Python_, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
 
@@ -32,7 +32,7 @@ Convnets are a cornerstone of Deeplearning and you are going to learn a few very
 
 ## Preparation work
 
-Read the first 2 articles in [Going Further](#going-further), and complete the notebooks for week 06 in `/samples` folder.
+Read the first 2 articles in [Going Further](#going-further), and complete the notebooks for week 07 in `/samples` folder.
 
 For _developers_ you should use a CNN to build a classifier of your choice (either trained from scratch or using a pre-trained model). You can follow the techniques detailed in the notebooks. You will find some examples of datasets in the section [going further/tools](#tools) on this page. For those of you who worked with the shape classifier with the toy NN it might be interesting to try to use CNN as a comparison (see the Kaggle dataset in [tools](#tools)). 
 
@@ -41,7 +41,7 @@ Both _designers_ and _developers_ should start looking a bit more in details int
 1. Make some research (models architecture, datasets, tutorials, blog posts, etc...), please __share__ your finding on Slack if you think they could help some teammates.
 2. For _designers_ you should start sketching some ideas either in the form of prototypes (high or low level), UI sketches, or even code experiment (P5, ML5).
 
-By __next week__ (week 07) you should:
+By __next week__ (week 08) you should:
 
 1. Have a __solid understanding__ of  Keras _(developers)_
 2. Be able to __train / retrain__ your own __CNN__ with Keras _(developers)_
