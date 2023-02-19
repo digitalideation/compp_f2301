@@ -146,7 +146,3 @@ Magenta.js is a collection of **TypeScript** libraries for doing inference with 
 ## Exit ticket
 
 Use [this link](#) if the form does not show up below :arrow_down:
-
-{% raw %}
-<iframe src="#" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
-{% endraw %}
