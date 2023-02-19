@@ -3,7 +3,7 @@ layout: inner
 title: "Intro - Part 01"
 ---
 
-[:tv: slides :tv:](https://digitalideation.github.io/comppx_h2101/slides/intro_part01.html)
+[:tv: slides :tv:](https://digitalideation.github.io/compp_f2301/slides/intro_part01.html)
 
 ## Intro
 
