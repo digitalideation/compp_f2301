@@ -25,6 +25,17 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inner working of a Neural Network
 - Intro to tools: Jupyter / Colab
 
+### [Week 02](content/week02.md)
+
+- Catching up
+- Lectures on:
+  - NLP models + HuggingFace API
+  - Image Generation Models (SD)
+
+### [Week 03](#)
+
+- 
+
 ## Evaluation
 
 ### Evaluation criteria:
