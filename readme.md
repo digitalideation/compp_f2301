@@ -32,9 +32,11 @@ Once we get a good grasp of the different techniques, we will experiment further
   - NLP models + HuggingFace API
   - Image Generation Models (SD)
 
-### [Week 03](#)
+### [Week 03](content/week03.md)
 
-- 
+- Keras - Intro + first steps
+- Break
+- Pytorch - Intro + first steps
 
 ## Evaluation
 

@@ -1,32 +1,49 @@
 ---
 layout: inner
-title: "Week 03" 
+title: "Week 03"
 ---
 
 
 ## Intro
 
-This week we will conclude the work on the 'toy' NN. We will start introducing some of the tools we will be using such as Keras, Wekinator, ML5js and tfjs. We will start training our first NN with Keras.
+This week we look back at what we learned so far and get a first taste of Keras / Pytorch.
+
+## Schedule
+
+|Time         |Desc                                      |
+|---          |---                                       |
+|20 mins      | Looking back at NN                       |
+|40 mins      | Keras - Intro + first steps              |
+|10 mins      | Break                                    |
+|40 mins      | Pytorch - Intro + first steps            |
 
 
-## Resources
+## Content
 
-+ [Keras - Getting Started](https://keras.io/#getting-started-30-seconds-to-keras)
-+ [Keras - Blog](https://blog.keras.io)
+* [:tv: Looking back at the inner working of a NN](https://digitalideation.github.io/compp_f2301/slides/intro_part02.html)
+* Intro to tools: [Keras](https://keras.io/)
+* [First steps with Keras](https://github.com/digitalideation/compp_f2301/tree/master/samples/week03)
+    * First Look
+    * Classifying movie reviews
+    * Shape classifier
+* Intro to tools: [Pytorch](https://pytorch.org/)
+* [First steps with Pytorch](https://github.com/digitalideation/compp_f2301/tree/master/samples/week03)
+    * Using pretrained models
+    * All as tensors
+    * Turn real-world data into tensors
 
 
-## Weekly task
+## Preparation work
 
-Start practicing your moves with Keras. Test some algorithms to train and test a model. By __next week__ (week 04) you should be able to __handle Keras at a basic level__.
+No preparation this week
+
+The goal this week is to: 
+1) Start using Pytorch  / Keras
+2) Start learning how to deploy models
 
 
 ## Going further
 
-+ [JS ml5js - Classification](https://ml5js.org/docs/image-classification-example)
-+ [JS tfjs - Tutorials](https://js.tensorflow.org/tutorials/)
-+ [JS tfjs - Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
-+ [Python Numpy - Getting Started 01](https://docs.scipy.org/doc/numpy/user/quickstart.html)
-+ [Python Numpy - Getting Started 02](http://cs231n.github.io/python-numpy-tutorial/#numpy)
-+ [Python Matplotlib - Getting Started](https://matplotlib.org/tutorials/index.html)
-+ [JS - Promises](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
-+ [JS - Arrow notation](https://www.youtube.com/watch?v=mrYMzpbFz18&feature=youtu.be)
+* [DL with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch)
+* [DL with Python](https://www.manning.com/books/deep-learning-with-python)
+* Username + pwd sent by email
