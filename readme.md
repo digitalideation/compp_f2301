@@ -51,9 +51,11 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### [Week 07](#)
 
-### [Week 08](#)
+### ~~Week 08~~
 
-### [Week 09 ??](#)
+### [Week 09](#)
+
+### [Week 10 ??](#)
 
 ## Evaluation
 
