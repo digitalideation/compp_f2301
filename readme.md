@@ -38,6 +38,23 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Break
 - Pytorch - Intro + first steps
 
+### [Week 04](content/week04.md)
+
+- Projects (discussions + examples)
+- Connecting things
+  - Colab + HF
+  - HF + JS
+
+### [Week 05](#)
+
+### [Week 06](#)
+
+### [Week 07](#)
+
+### [Week 08](#)
+
+### [Week 09 ??](#)
+
 ## Evaluation
 
 ### Evaluation criteria:
