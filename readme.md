@@ -38,7 +38,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Break
 - Pytorch - Intro + first steps
 
-### [Week 04](content/week04.md) | [:clapper:](https://drive.switch.ch/index.php/s/RXiam6xOlHhwPkr)
+### [Week 04](content/week04.md) | [:clapper:](https://drive.switch.ch/index.php/s/sJU9aZ7FgAGmRdo)
 
 - Projects (discussions + examples)
 - Connecting things (part 1)
