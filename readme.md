@@ -17,7 +17,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Schedule
 
-### [Week 01](content/week01.md)
+### [Week 01](content/week01.md) | [:clapper:](https://drive.switch.ch/index.php/s/2bk9dTZMzX08SqP)
 
 - Students intro :wave:
 - Intro: General
@@ -25,27 +25,31 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inner working of a Neural Network
 - Intro to tools: Jupyter / Colab
 
-### [Week 02](content/week02.md)
+### [Week 02](content/week02.md) | [:clapper:](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8) / [:clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
 
 - Catching up
 - Lectures on:
   - NLP models + HuggingFace API
   - Image Generation Models (SD)
 
-### [Week 03](content/week03.md)
+### [Week 03](content/week03.md) | [:clapper:](https://drive.switch.ch/index.php/s/RXiam6xOlHhwPkr)
 
 - Keras - Intro + first steps
 - Break
 - Pytorch - Intro + first steps
 
-### [Week 04](content/week04.md)
+### [Week 04](content/week04.md) | [:clapper:](https://drive.switch.ch/index.php/s/RXiam6xOlHhwPkr)
 
 - Projects (discussions + examples)
-- Connecting things
+- Connecting things (part 1)
   - Colab + HF
   - HF + JS
 
 ### [Week 05](#)
+
+- Work on projects
+- Connecting things (part 2)
+  - HF + JS
 
 ### [Week 06](#)
 

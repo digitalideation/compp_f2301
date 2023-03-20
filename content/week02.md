@@ -20,8 +20,8 @@ Two pre recorded lectures from [Lewis Tunstall](https://twitter.com/_lewtun) fro
 ## Content
 
 - [Repository](https://github.com/huggingface/workshops/tree/main/luzern-university)
-- [:movie_camera: Lecture 01 - Video](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8)
-- [:movie_camera: Lecture 02 - Video](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
+- [:clapper: Lecture 01 - Video](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8)
+- [:clapper: Lecture 02 - Video](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
 
 ## Exit ticket
 
