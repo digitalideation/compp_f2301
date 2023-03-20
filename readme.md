@@ -45,7 +45,7 @@ Once we get a good grasp of the different techniques, we will experiment further
   - Colab + HF
   - HF + JS
 
-### [Week 05](#)
+### [Week 05](content/week05.md)
 
 - Work on projects
 - Connecting things (part 2)
