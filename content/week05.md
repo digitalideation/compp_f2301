@@ -19,7 +19,7 @@ This week we talk and we connect the dots
 
 - Tickets feedback (really!)
 - Project work
-  - [Project list (WIP)](./projects.md)
+  - [Project list (WIP)](https://docs.google.com/spreadsheets/d/1hc9I5HRB_qEhkBvGqbU5DrN_OQ21D_DHDUjB9th9MNo/edit?usp=sharing)
 - [Connecting things](#)
   - HF + JS
 
